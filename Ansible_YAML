@@ -1,0 +1,6 @@
+Ansible uses YAML syntax for expressing Ansible playbooks.
+Every YAML file optionally starts with “---” and ends with “...”.
+YAML uses simple key-value pair to represent the data. The dictionary is represented in
+key: value pair.
+Note: There should be space between : and value.
+
